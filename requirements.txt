@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pandas
+kagglehub           # para bajar el CSV
+python-multipart    # (lo necesita FastAPI para multipart aunque no uses forms)
